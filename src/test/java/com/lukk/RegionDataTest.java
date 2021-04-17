@@ -126,7 +126,6 @@ public class RegionDataTest {
         Map<String, Double> hydro = new HashMap<>();
         Map<String, Double> solar = new HashMap<>();
         Map<String, Double> wind = new HashMap<>();
-        Map<String, Double> ff = new HashMap<>();
 
         try {
 
